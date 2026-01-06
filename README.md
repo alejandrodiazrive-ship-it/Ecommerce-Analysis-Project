@@ -77,6 +77,3 @@ Código SQL para la creación de tablas y la vista de limpieza.
 
 ecommerce_analysis.pbix
 Archivo de Power BI con el dashboard final.
-
-ecommerce_analysis.pbix
-Archivo de Power BI con el dashboard final.
